@@ -3,23 +3,25 @@
   "title": "Vegetables",
   "concepts": [
     "Potato",
-    "Tomato",
     "Onion",
     "Carrot",
     "Lettuce",
-    "Pumpkin",
     "Cabbage",
     "Broccoli",
     "Spinach",
-    "Corn",
-    "Eggplant",
     "Celery",
-    "Avocado",
-    "Zucchini",
     "Sweet potato",
-    "Capsicum",
     "Beetroot",
     "Cauliflower",
-    "Kale"
+    "Kale",
+    "Collard Greens",
+    "Sweet Potato",
+    "Beet",
+    "Radish",
+    "Turnip",
+    "Garlic",
+    "Leek",
+    "Asparagus",
+    "Artichoke"
   ]
 }
