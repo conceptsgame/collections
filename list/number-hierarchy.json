@@ -8,6 +8,7 @@
     "Rational",
     "Irrational",
     "Real",
-    "Complex"
+    "Complex",
+    "Imaginary"
   ]
 }
