@@ -9,6 +9,12 @@
     "Landslide",
     "Flood",
     "Avalanche",
-    "Wildfire"
+    "Wildfire",
+    "Drought",
+    "Blizzard",
+    "Volcanic Eruption",
+    "Cyclone",
+    "Typhoon",
+    "Sinkhole"
   ]
 }
