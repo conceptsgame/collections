@@ -12,6 +12,13 @@
     "Oval",
     "Trapezoid",
     "Parallelogram",
-    "Rhombus"
+    "Rhombus",
+    "Star",
+    "Heart",
+    "Diamond",
+    "Quatrefoil",
+    "Heptagon",
+    "Nonagon",
+    "Crescent"
   ]
 }
