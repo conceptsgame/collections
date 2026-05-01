@@ -2,12 +2,13 @@
   "emoji": "📚",
   "title": "School Subjects",
   "concepts": [
-    "Mathematics",
-    "Science",
-    "English",
-    "History",
     "Art",
+    "English",
+    "Geography",
+    "History",
+    "Mathematics",
     "Music",
-    "Physical Education"
+    "Physical Education",
+    "Science"
   ]
 }
