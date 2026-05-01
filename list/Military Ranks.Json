@@ -2,17 +2,19 @@
   "emoji": "🎖️",
   "title": "Military Ranks",
   "concepts": [
-    "Major",
-    "General",
-    "Marshal", 
-    "Lieutenant", 
-    "Colonel",
     "Brigadier",
-    "Commandant",
+    "Cadet",
     "Captain",
-    "Sergeant",
+    "Colonel",
+    "Commandant",
+    "Commander",
     "Corporal",
+    "General",
+    "Lieutenant", 
+    "Major",
+    "Marshal", 
+    "Officer",
     "Private",
-    "Officer"
+    "Sergeant"
   ]
 }
