@@ -14,11 +14,22 @@
     "Cheesecloth",
     "Satin",
     "Rayon",
-    "PVC",
     "Lace",
-    "Bamboo",
     "Spandex",
     "Velvet",
-    "Hemp"
+    "Hemp",
+    "Cashmere",
+    "Tweed",
+    "Corduroy",
+    "Chiffon",
+    "Velour",
+    "Mohair",
+    "Terrycloth",
+    "Burlap",
+    "Organza",
+    "Flannel",
+    "Microfiber",
+    "Ripstop",
+    "Softshell"
   ]
 }
