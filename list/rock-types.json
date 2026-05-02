@@ -17,6 +17,18 @@
     "Chalk",
     "Travertine",
     "Dolomite",
-    "Schist"
+    "Schist",
+    "Breccia",
+    "Conglomerate",
+    "Diorite",
+    "Andesite",
+    "Peridotite",
+    "Greywacke",
+    "Arkose",
+    "Arenite",
+    "Blueschist",
+    "Greenschist",
+    "Eclogite",
+    "Cataclastite"
   ]
 }
