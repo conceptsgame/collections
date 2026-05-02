@@ -29,6 +29,16 @@
     "Blueschist",
     "Greenschist",
     "Eclogite",
-    "Cataclastite"
+    "Cataclastite",
+    "Scoria",
+    "Diabase",
+    "Pegmatite",
+    "Flysch",
+    "Turbidite",
+    "Loess",
+    "Migmatite",
+    "Phyllite",
+    "Novaculite",
+    "Hornfels"
   ]
 }
