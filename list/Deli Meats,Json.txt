@@ -1,0 +1,23 @@
+{
+  "emoji": "🥩",
+  "title": "Deli Meats",
+  "concepts": [
+    "Corned Beef",
+    "Ham",
+    "Prosciutto",
+    "Mortadella",
+    "Bologna",
+    "Chorizo",
+    "Liverwurst",
+    "Pepperoni",
+    "Salami",
+    "Pastrami",
+    "Spam",
+    "Serrano Ham",
+    "Ibérico Ham",
+    "Chicken Roll",
+    "Kabanos",
+    "Roast Beef",
+    "Pâté"
+  ]
+}
