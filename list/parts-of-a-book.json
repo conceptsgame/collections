@@ -1,0 +1,21 @@
+{
+  "emoji": "📙",
+  "title": "Parts of a Book",
+  "concepts": [
+    "Cover",
+    "Title Page",
+    "Table of Contents",
+    "Dedication",
+    "Acknowledgments",
+    "Foreword",
+    "Preface",
+    "Introduction",
+    "Chapter",
+    "Appendix",
+    "Glossary",
+    "Index",
+    "Bibliography",
+    "Endnotes",
+    "Epilogue"
+  ]
+}

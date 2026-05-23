@@ -1,0 +1,23 @@
+{
+  "emoji": "🚦",
+  "title": "Traffic Signs",
+  "concepts": [
+    "Stop",
+    "Yield",
+    "Speed Limit",
+    "One Way",
+    "Do Not Enter",
+    "Wrong Way",
+    "No Parking",
+    "Pedestrian Crossing",
+    "School Zone",
+    "Merge",
+    "Keep Right",
+    "No U-Turn",
+    "Railroad Crossing",
+    "Detour",
+    "Dead End",
+    "Divided Highway",
+    "Road Closed"
+  ]
+}
