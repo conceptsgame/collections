@@ -1,0 +1,15 @@
+{
+  "emoji": "📍",
+  "title": "Map Projections",
+  "concepts": [
+    "Mercator",
+    "Gall-Peters",
+    "Robinson",
+    "Equirectangular",
+    "Mollweide",
+    "Winkel Tripel",
+    "Stereographic",
+    "Orthographic",
+    "Gnomonic"
+  ]
+}
