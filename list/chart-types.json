@@ -1,0 +1,18 @@
+{
+  "emoji": "📊",
+  "title": "Chart Types",
+  "concepts": [
+    "Bar Chart",
+    "Pie Chart",
+    "Line Chart",
+    "Histogram",
+    "Scatter Plot",
+    "Area Chart",
+    "Box Plot",
+    "Heatmap",
+    "Funnel Chart",
+    "Radar Chart",
+    "Gantt Chart",
+    "Waterfall Chart"
+  ]
+}
